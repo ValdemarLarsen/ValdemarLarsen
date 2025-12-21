@@ -8,7 +8,7 @@ Jeg er en udvikler med passion for teknologi og machine learning, som arbejder m
 - 🎯 **Fokus:** Data science og software udvikling
 - 📍 **Lokation:** Danmark
 
-## 🛠️ Teknologier & Værktøjer
+## 🛠️ Mest anvendte
 
 ### Programmering
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -24,7 +24,7 @@ Jeg er en udvikler med passion for teknologi og machine learning, som arbejder m
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValdemarLarsenN&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValdemarLarsen&show_icons=true&theme=dark)
 
 ## 🔗 Kontakt
 
