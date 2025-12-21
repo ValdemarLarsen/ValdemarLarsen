@@ -24,12 +24,12 @@ Jeg er en udvikler med passion for teknologi og machine learning, som arbejder m
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIT_BRUGERNAVN&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValdemarLarsenN&show_icons=true&theme=dark)
 
 ## 🔗 Kontakt
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dit-profil)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:din@email.dk)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdemar-larsen-64b8ab317)
+
 
 ---
 
