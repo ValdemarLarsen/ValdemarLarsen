@@ -1,16 +1,17 @@
-# Hej! 👋
+# Hey there! 👋
 
-Jeg er en udvikler med passion for teknologi og machine learning, som arbejder med at skabe innovative løsninger.
+I'm a developer with a passion for technology and machine learning, working to create innovative solutions.
 
-## 🚀 Om mig
+## 🚀 About Me
 
-- 💼 **Nuværende stilling:** Praktikant hos Brøndby IF, hvor jeg udvikler machine learning algoritmer
-- 🎯 **Fokus:** Data science og software udvikling
-- 📍 **Lokation:** Danmark
+- 💼 **Current Position:** Intern at Brøndby IF (professional football club), where I develop machine learning algorithms to support coaches' training methods by building dynamic applications that can predict match outcomes
+- 🎯 **Focus:** Data science and software development
+- 📍 **Location:** Denmark
+- ⚽ **Interests:** Combining sports analytics with cutting-edge ML technology
 
-## 🛠️ Mest anvendte
+## 🛠️ Most Used Technologies
 
-### Programmering
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -24,13 +25,14 @@ Jeg er en udvikler med passion for teknologi og machine learning, som arbejder m
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValdemarLarsen&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValdemarLarsen&show_icons=true&theme=dark&count_private=true)
 
-## 🔗 Kontakt
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ValdemarLarsen&layout=compact&theme=dark&count_private=true)
+
+## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdemar-larsen-64b8ab317)
 
-
 ---
 
-💡 *Altid åben for nye udfordringer og samarbejdsmuligheder!*
+💡 *Always open to new challenges and collaboration opportunities!*
